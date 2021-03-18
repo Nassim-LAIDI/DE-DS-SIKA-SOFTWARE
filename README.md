@@ -18,7 +18,7 @@ Mes missions au sein de l'entreprise Sika software furent essentiellement consac
 - Evaluation des données récoltées
 - Proposition et discussion des modèles proposés
 - Croisement des différentes sources de données
-- 
+
 #Les livrables attendu de moi par l'entreprise sont :
 
 - Un modèle prédictif des places de stationnement disponible en voirie
